@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/linux/devtools/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/documentation/doxygen/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/cicd/jenkins/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/tools/rfc2req/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/devtools/vim/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/tools/cve/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/documentation/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/devtools/git/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/documentation/plantuml/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/cicd/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/devtools/devenv/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/devtools/tmux/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/tools/</loc>
+  </url>
+  
+  <url>
+    <loc>/linux/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-04-26T10:19:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+    <lastmod>2018-09-04T11:36:40+02:00</lastmod>
+  </url>
+  
+</urlset>
