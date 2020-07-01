@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LNTSK – Jenkins</title>
+    <title>BLINKS – Jenkins</title>
     <link>/linux/cicd/jenkins/</link>
-    <description>Recent content in Jenkins on LNTSK</description>
+    <description>Recent content in Jenkins on BLINKS</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="/linux/cicd/jenkins/index.xml" rel="self" type="application/rss+xml" />
